@@ -106,7 +106,8 @@ This project is for **educational purposes only** and should not be used for sec
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-Developed as part of CS515 coursework.
-
+Developed as part of CS515 coursework by:
+* Ahmed Gameil
+* Mohammed Mostafa
